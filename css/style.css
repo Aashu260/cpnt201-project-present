@@ -126,6 +126,8 @@ figure {
 #fh5co-header nav ul li.active a {
   text-decoration: line-through !important;
   color: black !important;
+  font-weight: bold !important;
+  font-style: italic !important;
 }
 
 .fh5co-projects-feed,
