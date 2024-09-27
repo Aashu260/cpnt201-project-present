@@ -8,7 +8,7 @@ Fork the repository:
 Click on the fork button on the project.
 
 Clone the fork:  
-git clone: https://github.com/Aashu260/present.git
+git clone: https://github.com/Aashu260/cpnt201-project-present.git
 
 Create a branch:
 git checkout -b [branch-name]
